@@ -128,13 +128,13 @@ B'nin mesafesi daha küçük, ama kısıtı ihlal ediyor. Kullanılabilir seçen
 Bu seçimi kısa biçimde şöyle yazabiliriz:
 
 $$
-r^*=\underset{r\in\{A,C\}}{\operatorname{argmin}}\;J(r)
+r^*=\underset{r\in\{A,C\}}{\mathrm{arg\,min}}\;J(r)
 $$
 
 Burada:
 
 - $\{A,C\}$: Seçim yapabildiğimiz kullanılabilir rotalar.
-- $\operatorname{argmin}$: “Bu ifadeyi en küçük yapan seçeneği bul” işlemi.
+- $\mathrm{arg\,min}$: “Bu ifadeyi en küçük yapan seçeneği bul” işlemi.
 - $r^*$: Seçilen rota. Yıldız işareti burada en iyi seçimi gösterir; çarpma işareti değildir.
 
 Sonuç **$r^*=C$** olur. En küçük maliyet ise **10 m**'dir. Seçenek ile seçeneğin maliyeti farklı çıktılardır.
