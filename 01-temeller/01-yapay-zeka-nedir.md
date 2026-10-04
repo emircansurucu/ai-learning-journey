@@ -218,6 +218,6 @@ Bu dersin depo ve rota örnekleri özgün öğretim örnekleridir. Aşağıdaki 
 - **Video desteği:** [UC Berkeley CS188 Summer 2022 — ders sayfası](https://www-inst.eecs.berkeley.edu/~cs188/su22/). Takvimdeki “Welcome, Intro to AI” dersinin kayıt bağlantısı. İngilizce üniversite dersi olduğu için isteğe bağlı; ilk okumada kendi anlatımımız yeterli.
 - **Görsel destek:** [AIMA — Bölüm 1 slaytları](https://aima.cs.berkeley.edu/4th-ed/slides-pdf/chapter01.pdf). Alanın farklı tanımları ve rasyonel ajan yaklaşımı.
 
-**Sonraki konu:** Ders 02 — AI, ML ve DL haritası *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 02 — AI, ML ve DL haritası](02-ai-ml-dl-haritasi.md).
 
 [Temeller bölümüne dön](README.md)

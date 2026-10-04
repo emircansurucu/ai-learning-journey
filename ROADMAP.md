@@ -59,7 +59,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 İlk 12 ders temeller bölümünde; 13–17. dersler öğrenmenin matematiği bölümünde işlenecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
 
 - [ ] [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) *(okumaya hazır)*
-- [ ] Ders 02 — AI, ML ve DL haritası
+- [ ] [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
 - [ ] Ders 03 — Elle yazılan kurallar ve veriden öğrenme
 - [ ] Ders 04 — Bir öğrenme probleminin parçaları
 - [ ] Ders 05 — Model ve parametre
