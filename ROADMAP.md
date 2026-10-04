@@ -60,7 +60,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 
 - [ ] [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) *(okumaya hazır)*
 - [ ] [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
-- [ ] Ders 03 — Elle yazılan kurallar ve veriden öğrenme
+- [ ] [Ders 03 — Elle yazılan kurallar ve veriden öğrenme](01-temeller/03-kurallar-ve-veriden-ogrenme.md) *(okumaya hazır)*
 - [ ] Ders 04 — Bir öğrenme probleminin parçaları
 - [ ] Ders 05 — Model ve parametre
 - [ ] Ders 06 — Eğitim ve tahmin

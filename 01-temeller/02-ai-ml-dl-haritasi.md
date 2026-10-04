@@ -213,4 +213,4 @@ Robot, yolculuk kayıtları ve karşılaştırma tablosu özgün öğretim örne
 
 [Önceki ders: Yapay zekâ nedir?](01-yapay-zeka-nedir.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 03 — Elle yazılan kurallar ve veriden öğrenme *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 03 — Elle yazılan kurallar ve veriden öğrenme](03-kurallar-ve-veriden-ogrenme.md).

@@ -10,7 +10,7 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 
 - [Ders 01 — Yapay zekâ nedir?](01-yapay-zeka-nedir.md) *(okumaya hazır)*
 - [Ders 02 — AI, ML ve DL haritası](02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
-- Ders 03 — Elle yazılan kurallar ve veriden öğrenme *(planlandı)*
+- [Ders 03 — Elle yazılan kurallar ve veriden öğrenme](03-kurallar-ve-veriden-ogrenme.md) *(okumaya hazır)*
 - Ders 04 — Bir öğrenme probleminin parçaları *(planlandı)*
 - Ders 05 — Model ve parametre *(planlandı)*
 - Ders 06 — Eğitim ve tahmin *(planlandı)*
@@ -21,4 +21,4 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - Ders 11 — Aktivasyon fonksiyonu *(planlandı)*
 - Ders 12 — Tek nöronun sınırları *(planlandı)*
 
-İlk iki ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
+İlk üç ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
