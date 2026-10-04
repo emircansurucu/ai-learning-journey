@@ -11,7 +11,7 @@ Amaç; bir yöntemin neden gerektiğini anlamak, denklemlerini okuyabilmek, davr
 3. [Kaynak rehberi](KAYNAKLAR.md) ile kitap ve videoların hangi amaçla kullanılacağını gör.
 4. [Temeller](01-temeller/README.md) bölümünden sırayla ilerle.
 
-**Durum:** Kitabın yapısı ve kaynak rehberi hazır. Ders anlatımları henüz eklenmedi; konu konu hazırlanacak. Yol haritasındaki başlıklar tamamlanmış dersleri temsil etmez.
+**Durum:** [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) okumaya hazır. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
 
 ## Bölümler
 

@@ -2,7 +2,7 @@
 
 [Kitabın giriş sayfası](README.md)
 
-İlerleme takvime göre değil, konuyu açıklayabilme ve örnekte doğrulayabilme düzeyine göre belirlenir. İşaretlenmemiş maddeler planlanan içeriktir.
+İlerleme takvime göre değil, konuyu açıklayabilme ve örnekte doğrulayabilme düzeyine göre belirlenir. Kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması kutuyu otomatik olarak işaretlemez. Bağlantılı dersler okumaya hazır, diğer başlıklar planlanan içeriktir.
 
 ## Genel rota
 
@@ -58,7 +58,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 
 İlk 12 ders temeller bölümünde; 13–17. dersler öğrenmenin matematiği bölümünde işlenecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
 
-- [ ] Ders 01 — Yapay zekâ nedir?
+- [ ] [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) *(okumaya hazır)*
 - [ ] Ders 02 — AI, ML ve DL haritası
 - [ ] Ders 03 — Elle yazılan kurallar ve veriden öğrenme
 - [ ] Ders 04 — Bir öğrenme probleminin parçaları
