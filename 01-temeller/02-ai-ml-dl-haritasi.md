@@ -29,22 +29,35 @@ Bu bileşenlerden söz ederken AI, ML ve DL isimlerini duyabiliriz. Bunlar aynı
 
 Bu yeni kelimeyi şimdilik “bilginin işlenmek üzere aldığı biçim” olarak düşün. Birazdan somutlaştıracağız.
 
-## 2. Görsel harita: İç içe alanlar
+## 2. Görsel harita: Alanlar ve örnek yöntemler
 
-Aşağıdaki şemada kutuların iç içe olması **kapsama** ilişkisini gösterir. Bir işlem sırası göstermez.
+Aşağıdaki şemada oklar **alanın içindeki yaklaşım veya yöntem örneklerine** gider. Yukarıdan aşağıya bir hesaplama sırası göstermez. ML, AI'nin; DL ise ML'nin içindedir. Dallar örnek amaçlıdır ve alanın bütün yöntemlerini içermez.
 
 ```mermaid
 flowchart TD
-    subgraph AI["AI — Yapay zekâ"]
-        P["Arama, planlama ve mantıksal çıkarım"]
-        subgraph ML["ML — Makine öğrenmesi"]
-            M["Doğrusal regresyon ve karar ağaçları gibi yöntemler"]
-            subgraph DL["DL — Derin öğrenme"]
-                N["Derin yapay sinir ağları"]
-            end
-        end
-    end
+    AI["AI — Yapay zekâ"]
+    AI --> S["Arama ve planlama: A-star, oyun ağacı araması"]
+    AI --> L["Mantıksal çıkarım: kurallar ve uzman sistemler"]
+    AI --> ML["ML — Makine öğrenmesi"]
+
+    ML --> C1["Doğrusal regresyon ve SVM"]
+    ML --> C2["Karar ağaçları ve random forest"]
+    ML --> C3["Kümeleme ve boyut indirgeme: k-means, PCA"]
+    ML --> DL["DL — Derin öğrenme"]
+
+    DL --> N1["CNN: görüntü ve uzamsal örüntüler"]
+    DL --> N2["RNN ve LSTM: sıralı veri"]
+    DL --> N3["Transformer: attention temelli modeller"]
 ```
+
+Şemadaki yeni isimler şimdilik yön bulmak için var; hepsini bu derste öğrenmen gerekmiyor.
+
+- **Arama ve planlama:** Olası yolları veya eylemleri inceleyip bir çözüm seçen yöntemler. A-star (A*) bir yol arama örneğidir.
+- **Mantıksal çıkarım:** Verilen bilgiler ve kurallarla sonuç üretmek. Uzman sistemler, belirli bir alandaki bilgiyi kurallarla kullanabilir.
+- **Klasik ML örnekleri:** Regresyon, SVM (support vector machine), ağaçlar, k-means ve PCA'yı ilerleyen derslerde işleyeceğiz. Bunlar aynı işi yapan yöntemler değildir.
+- **DL mimarileri:** CNN (convolutional neural network), RNN (recurrent neural network), LSTM (long short-term memory) ve transformer, farklı hesaplama yapılarıdır. Yanlarındaki veri türleri yaygın kullanım örnekleridir; kullanım alanlarını yalnızca bunlarla sınırlamaz.
+
+**Sığ yapay sinir ağları da ML kapsamındadır.** Şemada yalnızca derin ağ aileleri gösterildiği için bütün sinir ağlarını DL olarak düşünme. Ayrıca arama ve mantık yöntemleri, öğrenilmiş modellerle birlikte kullanılabilir.
 
 Şemayı üç cümleyle oku:
 
