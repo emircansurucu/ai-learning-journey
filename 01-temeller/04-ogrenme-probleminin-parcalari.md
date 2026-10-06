@@ -265,4 +265,4 @@ Yolculuk tablosu, sayısal örnekler ve şema özgün öğretim materyalleridir.
 
 [Önceki ders: Kurallar ve veriden öğrenme](03-kurallar-ve-veriden-ogrenme.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 05 — Model ve parametre *(henüz hazırlanmadı)*.
+[Sonraki ders: Model ve parametre](05-model-ve-parametre.md)
