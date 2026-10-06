@@ -12,7 +12,7 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - [Ders 02 — AI, ML ve DL haritası](02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
 - [Ders 03 — Elle yazılan kurallar ve veriden öğrenme](03-kurallar-ve-veriden-ogrenme.md) *(okumaya hazır)*
 - [Ders 04 — Bir öğrenme probleminin parçaları](04-ogrenme-probleminin-parcalari.md) *(okumaya hazır)*
-- Ders 05 — Model ve parametre *(planlandı)*
+- [Ders 05 — Model ve parametre](05-model-ve-parametre.md) *(okumaya hazır)*
 - Ders 06 — Eğitim ve tahmin *(planlandı)*
 - Ders 07 — Öğrenme düzenleri *(planlandı)*
 - Ders 08 — Regresyon ve sınıflandırma *(planlandı)*
@@ -21,4 +21,4 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - Ders 11 — Aktivasyon fonksiyonu *(planlandı)*
 - Ders 12 — Tek nöronun sınırları *(planlandı)*
 
-İlk dört ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
+İlk beş ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
