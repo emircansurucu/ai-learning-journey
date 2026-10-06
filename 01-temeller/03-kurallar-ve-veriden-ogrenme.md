@@ -233,4 +233,4 @@ Sıcaklık verileri, eşik adayları ve hesaplar özgün öğretim örnekleridir
 
 [Önceki ders: AI, ML ve DL haritası](02-ai-ml-dl-haritasi.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 04 — Bir öğrenme probleminin parçaları *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 04 — Bir öğrenme probleminin parçaları](04-ogrenme-probleminin-parcalari.md).
