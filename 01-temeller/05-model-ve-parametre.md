@@ -214,4 +214,4 @@ Sayısal örnekler ve şema özgün öğretim materyalleridir.
 
 [Önceki ders: Bir öğrenme probleminin parçaları](04-ogrenme-probleminin-parcalari.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 06 — Eğitim ve tahmin *(henüz hazırlanmadı)*.
+[Sonraki ders: Eğitim ve tahmin](06-egitim-ve-tahmin.md)
