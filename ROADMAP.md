@@ -64,7 +64,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 - [ ] [Ders 04 — Bir öğrenme probleminin parçaları](01-temeller/04-ogrenme-probleminin-parcalari.md) *(okumaya hazır)*
 - [ ] [Ders 05 — Model ve parametre](01-temeller/05-model-ve-parametre.md) *(okumaya hazır)*
 - [ ] [Ders 06 — Eğitim ve tahmin](01-temeller/06-egitim-ve-tahmin.md) *(okumaya hazır)*
-- [ ] Ders 07 — Öğrenme düzenleri
+- [ ] [Ders 07 — Öğrenme düzenleri](01-temeller/07-ogrenme-duzenleri.md) *(okumaya hazır)*
 - [ ] Ders 08 — Regresyon ve sınıflandırma
 - [ ] Ders 09 — Yapay nöron
 - [ ] Ders 10 — Ağırlık ve bias
