@@ -14,11 +14,11 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - [Ders 04 — Bir öğrenme probleminin parçaları](04-ogrenme-probleminin-parcalari.md) *(okumaya hazır)*
 - [Ders 05 — Model ve parametre](05-model-ve-parametre.md) *(okumaya hazır)*
 - [Ders 06 — Eğitim ve tahmin](06-egitim-ve-tahmin.md) *(okumaya hazır)*
-- Ders 07 — Öğrenme düzenleri *(planlandı)*
+- [Ders 07 — Öğrenme düzenleri](07-ogrenme-duzenleri.md) *(okumaya hazır)*
 - Ders 08 — Regresyon ve sınıflandırma *(planlandı)*
 - Ders 09 — Yapay nöron *(planlandı)*
 - Ders 10 — Ağırlık ve bias *(planlandı)*
 - Ders 11 — Aktivasyon fonksiyonu *(planlandı)*
 - Ders 12 — Tek nöronun sınırları *(planlandı)*
 
-İlk altı ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
+İlk yedi ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
