@@ -11,7 +11,7 @@ Amaç; bir yöntemin neden gerektiğini anlamak, denklemlerini okuyabilmek, davr
 3. [Kaynak rehberi](KAYNAKLAR.md) ile kitap ve videoların hangi amaçla kullanılacağını gör.
 4. [Temeller](01-temeller/README.md) bölümünden sırayla ilerle.
 
-**Durum:** [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md), [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md), [Ders 03 — Elle yazılan kurallar ve veriden öğrenme](01-temeller/03-kurallar-ve-veriden-ogrenme.md), [Ders 04 — Bir öğrenme probleminin parçaları](01-temeller/04-ogrenme-probleminin-parcalari.md), [Ders 05 — Model ve parametre](01-temeller/05-model-ve-parametre.md) ve [Ders 06 — Eğitim ve tahmin](01-temeller/06-egitim-ve-tahmin.md) okumaya hazır. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
+**Durum:** [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md), [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md), [Ders 03 — Elle yazılan kurallar ve veriden öğrenme](01-temeller/03-kurallar-ve-veriden-ogrenme.md), [Ders 04 — Bir öğrenme probleminin parçaları](01-temeller/04-ogrenme-probleminin-parcalari.md), [Ders 05 — Model ve parametre](01-temeller/05-model-ve-parametre.md), [Ders 06 — Eğitim ve tahmin](01-temeller/06-egitim-ve-tahmin.md) ve [Ders 07 — Öğrenme düzenleri](01-temeller/07-ogrenme-duzenleri.md) okumaya hazır. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
 
 ## Bölümler
 
