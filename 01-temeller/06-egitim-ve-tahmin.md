@@ -212,4 +212,4 @@ Tablolar, hesaplar ve şema özgün öğretim materyalleridir.
 
 [Önceki ders: Model ve parametre](05-model-ve-parametre.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 07 — Öğrenme düzenleri *(henüz hazırlanmadı)*.
+[Sonraki ders: Öğrenme düzenleri](07-ogrenme-duzenleri.md)
