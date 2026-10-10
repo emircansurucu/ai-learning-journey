@@ -192,4 +192,4 @@ Robot görevleri, sayısal örnekler ve şema özgün öğretim materyalleridir.
 
 [Önceki ders: Eğitim ve tahmin](06-egitim-ve-tahmin.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 08 — Regresyon ve sınıflandırma *(henüz hazırlanmadı)*.
+[Sonraki ders: Regresyon ve sınıflandırma](08-regresyon-ve-siniflandirma.md)
