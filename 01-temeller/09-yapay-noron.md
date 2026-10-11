@@ -221,4 +221,4 @@ Aynı parametreleri ve ReLU'yu kullan:
 
 [Önceki ders: Regresyon ve sınıflandırma](08-regresyon-ve-siniflandirma.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 10 — Ağırlık ve bias *(henüz hazırlanmadı)*.
+[Sonraki ders: Ağırlık ve bias](10-agirlik-ve-bias.md)
