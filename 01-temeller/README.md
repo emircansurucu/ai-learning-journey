@@ -6,6 +6,8 @@
 
 AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve parametre; eğitim ve tahmin; öğrenme düzenleri; yapay nörona giriş.
 
+**Bölüm 12. dersle tamamlanır.** Ardından 13. dersle öğrenmenin matematiği bölümüne geçilir.
+
 ## Dersler
 
 - [Ders 01 — Yapay zekâ nedir?](01-yapay-zeka-nedir.md) *(okumaya hazır)*
@@ -16,9 +18,9 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - [Ders 06 — Eğitim ve tahmin](06-egitim-ve-tahmin.md) *(okumaya hazır)*
 - [Ders 07 — Öğrenme düzenleri](07-ogrenme-duzenleri.md) *(okumaya hazır)*
 - [Ders 08 — Regresyon ve sınıflandırma](08-regresyon-ve-siniflandirma.md) *(okumaya hazır)*
-- Ders 09 — Yapay nöron *(planlandı)*
+- [Ders 09 — Yapay nöron](09-yapay-noron.md) *(okumaya hazır)*
 - Ders 10 — Ağırlık ve bias *(planlandı)*
 - Ders 11 — Aktivasyon fonksiyonu *(planlandı)*
 - Ders 12 — Tek nöronun sınırları *(planlandı)*
 
-İlk sekiz ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
+İlk dokuz ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
