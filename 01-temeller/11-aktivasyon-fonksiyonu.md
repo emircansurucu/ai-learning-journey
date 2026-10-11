@@ -241,4 +241,4 @@ Ana okuma: [Dive into Deep Learning — Multilayer Perceptrons](https://d2l.ai/c
 
 [Önceki ders: Ağırlık ve bias](10-agirlik-ve-bias.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 12 — Tek nöronun sınırları *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 12 — Tek nöronun sınırları](12-tek-noronun-sinirlari.md).
