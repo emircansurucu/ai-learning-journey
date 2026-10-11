@@ -260,4 +260,4 @@ Tablolar, hesaplar, grafikler ve şema özgün öğretim materyalleridir. Grafik
 
 [Önceki ders: Öğrenme düzenleri](07-ogrenme-duzenleri.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 09 — Yapay nöron *(henüz hazırlanmadı)*.
+[Sonraki ders: Yapay nöron](09-yapay-noron.md)
