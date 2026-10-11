@@ -66,6 +66,26 @@ Burada 2 s hatayla 20 s hata aynı değildir. **Sayısal uzaklığın büyüklü
 
 Regresyon yalnızca doğrusal regresyondan ibaret değildir. Başka model biçimleriyle de miktar tahmin edebiliriz. Ölçümleri tam sayıya yuvarlamak da süreyi bir miktar olmaktan çıkarmaz.
 
+
+### Grafiği okuyalım: Tahmin doğrusu ve hata
+
+![Sabit yük ve dönüş sayısında mesafeye göre süre tahmini; 30 metrede 42 saniye tahmin ile 44 saniye varsayımsal ölçüm arasındaki 2 saniye fark](assets/08-regresyon-grafigi.svg)
+
+Grafikte **yatay eksen mesafe**, **dikey eksen teslim süresidir**. Yükü 2 kg, dönüş sayısını 1 olarak sabitledik. Bu koşullarda model:
+
+$
+\hat{y}=1x_1+3\cdot2+4\cdot1+2=x_1+12
+$
+
+Burada mesafe metre, süre saniye cinsinden sayısal olarak yazılmıştır; mesafe katsayısı 1 s/m, sabit katkı 12 s'dir.
+
+- **Mavi doğru:** Bu sabit koşullarda modelin farklı mesafelerdeki tahminleri. Mesafeyi 1 m artırınca tahmin 1 s artar.
+- **Mavi kare:** 30 m için 42 s tahmin.
+- **Turuncu nokta:** Aynı girdiye karşılık varsayımsal 44 s ölçüm.
+- **Dikey kesikli parça:** Aynı mesafede tahmin ile hedefin arasındaki 2 s hata.
+
+Doğruyu turuncu noktaya bakarak yeniden uydurmadık; önceki modelin davranışını çizdik. Ayrıca yük veya dönüş sayısı değişirse aynı doğru üzerinde kalmak zorunda değiliz. Bu grafik, üç girdili modelin diğer iki girdisi sabit tutulmuş bir kesitidir.
+
 ## 3. Sınıflandırma: Bir kategoriyi tahmin etmek
 
 **Sınıflandırma (classification)**, örneğin hangi sınıfa ait olduğunu tahmin etme görevidir.
@@ -167,6 +187,18 @@ Sayısal hatalar eşit. Fakat E'de tahminle hedef, karar eşiğinin farklı tara
 
 **Doğruluk (accuracy)**, doğru sınıf tahminlerinin toplam örnek sayısına oranıdır. İleride dengesiz sınıflarda neden tek başına yanıltıcı olabileceğini işleyeceğiz.
 
+
+### Grafiği okuyalım: Eşiğin iki tarafı
+
+![E örneğinde 34 saniye tahmin ve 36 saniye gerçek süre 35 saniye eşiğinin farklı taraflarında; F örneğinde 42 ve 44 saniye aynı tarafta](assets/08-karar-esigi.svg)
+
+Yatay eksen süreyi gösteriyor; satırlar iki ayrı örnektir. Mavi kareler tahminleri, turuncu noktalar hedefleri gösterir.
+
+- **E satırı:** 34 s tahmin yeşil “gecikmez” bölgesinde, 36 s hedef turuncu “gecikir” bölgesinde. Aralarındaki çizgi 35 s eşiğini geçtiği için sınıf kararı yanlış.
+- **F satırı:** 42 s tahmin ve 44 s hedef aynı “gecikir” bölgesinde. Sınıf kararı doğru, fakat süre tahmini yine 2 s hatalı.
+
+İki satırda da tahmin–hedef uzaklığı 2 s. Grafikte bakacağın şey yalnızca bu uzaklık değil, **noktaların karar sınırının aynı tarafında olup olmadığı**.
+
 ## 7. Sınıflandırıcı neden bazen ondalıklı sayı verir?
 
 Bazı sınıflandırıcılar önce bir sınıfa ait olma olasılığını tahmin eder. Örneğin:
@@ -221,7 +253,7 @@ Yöntem adının tek başına görev türünü söylemediğine de dikkat et: İl
 
 ## Kaynak ve destek
 
-Tablolar, hesaplar ve şema özgün öğretim materyalleridir.
+Tablolar, hesaplar, grafikler ve şema özgün öğretim materyalleridir. Grafikler denklemlerden ve dersin yapay örneklerinden hesaplanmıştır.
 
 - **Kısa okuma:** [Dive into Deep Learning — Regression](https://d2l.ai/chapter_introduction/index.html#regression) ve [Classification](https://d2l.ai/chapter_introduction/index.html#classification), **1.3.1.1** ve **1.3.1.2** alt bölümleri. Miktar tahmini ile kategori tahminini karşılaştır. Daha ileri kayıp fonksiyonlarını şimdilik tamamlaman gerekmiyor.
 - **Önceki anlatımla bağlantı:** [Ders 06](06-egitim-ve-tahmin.md) içindeki süre hatasını ve bu dersteki sınıf hatasını yan yana açıklamayı dene.
