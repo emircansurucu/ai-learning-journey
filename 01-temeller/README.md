@@ -20,7 +20,7 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - [Ders 08 — Regresyon ve sınıflandırma](08-regresyon-ve-siniflandirma.md) *(okumaya hazır)*
 - [Ders 09 — Yapay nöron](09-yapay-noron.md) *(okumaya hazır)*
 - [Ders 10 — Ağırlık ve bias](10-agirlik-ve-bias.md) *(okumaya hazır)*
-- Ders 11 — Aktivasyon fonksiyonu *(planlandı)*
+- [Ders 11 — Aktivasyon fonksiyonu](11-aktivasyon-fonksiyonu.md) *(okumaya hazır)*
 - Ders 12 — Tek nöronun sınırları *(planlandı)*
 
-İlk on ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
+İlk on bir ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
