@@ -70,7 +70,7 @@ Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmeni
 - [ ] [Ders 10 — Ağırlık ve bias](01-temeller/10-agirlik-ve-bias.md) *(okumaya hazır)*
 - [ ] [Ders 11 — Aktivasyon fonksiyonu](01-temeller/11-aktivasyon-fonksiyonu.md) *(okumaya hazır)*
 - [ ] [Ders 12 — Tek nöronun sınırları](01-temeller/12-tek-noronun-sinirlari.md) *(okumaya hazır)*
-- [ ] Ders 13 — Veriden fonksiyon öğrenmek
+- [ ] [Ders 13 — Veriden fonksiyon öğrenmek](02-ogrenmenin-matematigi/13-veriden-fonksiyon-ogrenmek.md) *(okumaya hazır)*
 - [ ] Ders 14 — Doğrusal regresyon
 - [ ] Ders 15 — Kayıp fonksiyonu
 - [ ] Ders 16 — Gradyan inişi
