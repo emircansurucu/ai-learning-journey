@@ -237,4 +237,4 @@ Ana okuma: [Goodfellow, Bengio ve Courville — Deep Learning, Bölüm 6](https:
 
 [Önceki ders: Aktivasyon fonksiyonu](11-aktivasyon-fonksiyonu.md) · [Temeller bölümüne dön](README.md) · [Öğrenmenin matematiği bölümüne geç](../02-ogrenmenin-matematigi/README.md)
 
-**Sonraki konu:** Ders 13 — Veriden fonksiyon öğrenmek *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 13 — Veriden fonksiyon öğrenmek](../02-ogrenmenin-matematigi/13-veriden-fonksiyon-ogrenmek.md).
