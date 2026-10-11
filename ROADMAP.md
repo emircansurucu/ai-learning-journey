@@ -67,7 +67,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 - [ ] [Ders 07 — Öğrenme düzenleri](01-temeller/07-ogrenme-duzenleri.md) *(okumaya hazır)*
 - [ ] [Ders 08 — Regresyon ve sınıflandırma](01-temeller/08-regresyon-ve-siniflandirma.md) *(okumaya hazır)*
 - [ ] [Ders 09 — Yapay nöron](01-temeller/09-yapay-noron.md) *(okumaya hazır)*
-- [ ] Ders 10 — Ağırlık ve bias
+- [ ] [Ders 10 — Ağırlık ve bias](01-temeller/10-agirlik-ve-bias.md) *(okumaya hazır)*
 - [ ] Ders 11 — Aktivasyon fonksiyonu
 - [ ] Ders 12 — Tek nöronun sınırları
 - [ ] Ders 13 — Veriden fonksiyon öğrenmek
