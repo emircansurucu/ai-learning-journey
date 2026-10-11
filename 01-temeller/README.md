@@ -6,7 +6,7 @@
 
 AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve parametre; eğitim ve tahmin; öğrenme düzenleri; yapay nörona giriş.
 
-**Bölüm 12. dersle tamamlanır.** Ardından 13. dersle öğrenmenin matematiği bölümüne geçilir.
+**Bölümün 12 dersinin tamamı okumaya hazır.** Ardından 13. dersle [öğrenmenin matematiği](../02-ogrenmenin-matematigi/README.md) bölümüne geçilir.
 
 ## Dersler
 
@@ -21,6 +21,8 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 - [Ders 09 — Yapay nöron](09-yapay-noron.md) *(okumaya hazır)*
 - [Ders 10 — Ağırlık ve bias](10-agirlik-ve-bias.md) *(okumaya hazır)*
 - [Ders 11 — Aktivasyon fonksiyonu](11-aktivasyon-fonksiyonu.md) *(okumaya hazır)*
-- Ders 12 — Tek nöronun sınırları *(planlandı)*
+- [Ders 12 — Tek nöronun sınırları](12-tek-noronun-sinirlari.md) *(okumaya hazır)*
 
-İlk on bir ders okumaya hazır. Diğer derslerin bağlantıları hazırlandıkça bu sayfaya eklenecek. Görseller ve notebook klasörleri ihtiyaç oldukça oluşturulacak.
+Temeller bölümünün içeriği tamamlandı. Derslerin yayımlanması, kişisel öğrenme ilerlemesinin tamamlandığı anlamına gelmez; anlama kontrollerini de çözerek ilerle.
+
+**Sonraki bölüm:** [Öğrenmenin matematiği](../02-ogrenmenin-matematigi/README.md). Ders 13 — Veriden fonksiyon öğrenmek henüz hazırlanmadı.
