@@ -56,7 +56,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 
 ## Başlangıç dersleri
 
-İlk 12 ders temeller bölümünde; 13–17. dersler öğrenmenin matematiği bölümünde işlenecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
+Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmenin matematiği bölümünde işlenecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
 
 - [ ] [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) *(okumaya hazır)*
 - [ ] [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
@@ -69,7 +69,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 - [ ] [Ders 09 — Yapay nöron](01-temeller/09-yapay-noron.md) *(okumaya hazır)*
 - [ ] [Ders 10 — Ağırlık ve bias](01-temeller/10-agirlik-ve-bias.md) *(okumaya hazır)*
 - [ ] [Ders 11 — Aktivasyon fonksiyonu](01-temeller/11-aktivasyon-fonksiyonu.md) *(okumaya hazır)*
-- [ ] Ders 12 — Tek nöronun sınırları
+- [ ] [Ders 12 — Tek nöronun sınırları](01-temeller/12-tek-noronun-sinirlari.md) *(okumaya hazır)*
 - [ ] Ders 13 — Veriden fonksiyon öğrenmek
 - [ ] Ders 14 — Doğrusal regresyon
 - [ ] Ders 15 — Kayıp fonksiyonu
