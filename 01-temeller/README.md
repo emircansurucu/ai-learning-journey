@@ -25,4 +25,4 @@ AI–ML–DL ilişkisi; kurallar ve öğrenme; veri, özellik, etiket, model ve 
 
 Temeller bölümünün içeriği tamamlandı. Derslerin yayımlanması, kişisel öğrenme ilerlemesinin tamamlandığı anlamına gelmez; anlama kontrollerini de çözerek ilerle.
 
-**Sonraki bölüm:** [Öğrenmenin matematiği](../02-ogrenmenin-matematigi/README.md). Ders 13 — Veriden fonksiyon öğrenmek henüz hazırlanmadı.
+**Sonraki bölüm:** [Öğrenmenin matematiği](../02-ogrenmenin-matematigi/README.md). [Ders 13 — Veriden fonksiyon öğrenmek](../02-ogrenmenin-matematigi/13-veriden-fonksiyon-ogrenmek.md) okumaya hazır.
