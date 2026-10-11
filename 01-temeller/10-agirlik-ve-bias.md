@@ -240,4 +240,4 @@ Grafikler, tablolar ve hesaplar özgün öğretim materyalleridir. Grafikler der
 
 [Önceki ders: Yapay nöron](09-yapay-noron.md) · [Temeller bölümüne dön](README.md)
 
-**Sonraki konu:** Ders 11 — Aktivasyon fonksiyonu *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 11 — Aktivasyon fonksiyonu](11-aktivasyon-fonksiyonu.md).
