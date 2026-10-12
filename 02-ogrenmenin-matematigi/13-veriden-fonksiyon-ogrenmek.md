@@ -361,4 +361,4 @@ Ana okuma: [Dive into Deep Learning — 3.1 Linear Regression](https://d2l.ai/ch
 
 [Önceki ders: Tek nöronun sınırları](../01-temeller/12-tek-noronun-sinirlari.md) · [Bölüm girişine dön](README.md)
 
-**Sonraki konu:** Ders 14 — Doğrusal regresyon *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 14 — Doğrusal regresyon](14-dogrusal-regresyon.md).
