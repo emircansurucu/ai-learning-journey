@@ -21,7 +21,7 @@ Grafiklerde eksenleri, birimleri, ölçüm noktalarını ve model tahminlerini b
 | Ders | Ana soru | Durum |
 |---|---|---|
 | [13 — Veriden fonksiyon öğrenmek](13-veriden-fonksiyon-ogrenmek.md) | Birkaç ölçümden yeni girişlerde tahmin yapan bir kuralı nasıl kurarız? | Okumaya hazır |
-| 14 — Doğrusal regresyon | Noktalar aynı doğru üzerinde değilse ağırlık ve bias'ı nasıl seçeriz? | Planlandı |
+| [14 — Doğrusal regresyon](14-dogrusal-regresyon.md) | Noktalar aynı doğru üzerinde değilse ağırlık ve bias'ı nasıl seçeriz? | Okumaya hazır |
 | 15 — Kayıp fonksiyonu | Tahmin hatalarını tek bir sayıyla nasıl değerlendiririz? | Planlandı |
 | 16 — Gradyan inişi | Parametreleri daha küçük kayba doğru nasıl güncelleriz? | Planlandı |
 | 17 — Genelleme ve overfitting | Eğitimde iyi çalışan model yeni veride neden başarısız olabilir? | Planlandı |
