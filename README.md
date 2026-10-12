@@ -11,7 +11,7 @@ Amaç; bir yöntemin neden gerektiğini anlamak, denklemlerini okuyabilmek, davr
 3. [Kaynak rehberi](KAYNAKLAR.md) ile kitap ve videoların hangi amaçla kullanılacağını gör.
 4. [Temeller](01-temeller/README.md) bölümünden sırayla ilerle.
 
-**Durum:** [Temeller bölümünün](01-temeller/README.md) 12 dersinin tamamı okumaya hazır. [Öğrenmenin matematiği](02-ogrenmenin-matematigi/README.md) bölümü başladı: [Ders 13 — Veriden fonksiyon öğrenmek](02-ogrenmenin-matematigi/13-veriden-fonksiyon-ogrenmek.md) ayrıntılı anlatım ve grafiklerle hazır. Sırada Ders 14 — Doğrusal regresyon var. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
+**Durum:** [Temeller bölümünün](01-temeller/README.md) 12 dersinin tamamı okumaya hazır. [Öğrenmenin matematiği](02-ogrenmenin-matematigi/README.md) bölümünde [Ders 13 — Veriden fonksiyon öğrenmek](02-ogrenmenin-matematigi/13-veriden-fonksiyon-ogrenmek.md) ve [Ders 14 — Doğrusal regresyon](02-ogrenmenin-matematigi/14-dogrusal-regresyon.md) ayrıntılı anlatım ve grafiklerle hazır. Sırada Ders 15 — Kayıp fonksiyonu var. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
 
 ## Bölümler
 
