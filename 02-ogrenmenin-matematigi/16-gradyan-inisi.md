@@ -466,4 +466,4 @@ Tamamlayıcı okuma: [Dive into Deep Learning — Linear Regression](https://d2l
 
 [Önceki ders: Kayıp fonksiyonu](15-kayip-fonksiyonu.md) · [Bölüm girişine dön](README.md)
 
-**Sonraki konu:** Ders 17 — Genelleme ve overfitting *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 17 — Genelleme ve overfitting](17-genelleme-ve-overfitting.md).
