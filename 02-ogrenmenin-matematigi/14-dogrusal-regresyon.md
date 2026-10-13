@@ -427,4 +427,4 @@ Tamamlayıcı okuma: [NIST — Linear Least Squares Regression](https://www.itl.
 
 [Önceki ders: Veriden fonksiyon öğrenmek](13-veriden-fonksiyon-ogrenmek.md) · [Bölüm girişine dön](README.md)
 
-**Sonraki konu:** Ders 15 — Kayıp fonksiyonu *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 15 — Kayıp fonksiyonu](15-kayip-fonksiyonu.md).
