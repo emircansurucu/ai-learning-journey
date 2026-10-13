@@ -335,4 +335,4 @@ Uygulama rehberi: [scikit-learn — Cross-validation](https://scikit-learn.org/s
 
 [Önceki ders: Gradyan inişi](16-gradyan-inisi.md) · [Bölüm girişine dön](README.md)
 
-**Sonraki konu:** Ders 18 — Çok girdili doğrusal regresyon ve matris gösterimi *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 18 — Çok girdili doğrusal regresyon ve matris gösterimi](18-cok-girdili-regresyon-ve-matrisler.md).
