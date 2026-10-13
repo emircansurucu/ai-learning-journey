@@ -353,4 +353,4 @@ Tamamlayıcı okuma: Aynı sayfadaki **“Which scoring function should I use?�
 
 [Önceki ders: Doğrusal regresyon](14-dogrusal-regresyon.md) · [Bölüm girişine dön](README.md)
 
-**Sonraki konu:** Ders 16 — Gradyan inişi *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 16 — Gradyan inişi](16-gradyan-inisi.md).
