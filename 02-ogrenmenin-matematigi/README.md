@@ -25,9 +25,10 @@ Grafiklerde eksenleri, birimleri, ölçüm noktalarını ve model tahminlerini b
 | [15 — Kayıp fonksiyonu](15-kayip-fonksiyonu.md) | Tahmin hatalarını tek bir sayıyla nasıl değerlendiririz? | Okumaya hazır |
 | [16 — Gradyan inişi](16-gradyan-inisi.md) | Parametreleri daha küçük kayba doğru nasıl güncelleriz? | Okumaya hazır |
 | [17 — Genelleme ve overfitting](17-genelleme-ve-overfitting.md) | Eğitimde iyi çalışan model yeni veride neden başarısız olabilir? | Okumaya hazır |
-| 18 — Çok girdili doğrusal regresyon ve matris gösterimi | Birkaç özelliği birlikte kullanırken hesapları nasıl düzenleriz? | Planlandı |
+| [18 — Çok girdili doğrusal regresyon ve matris gösterimi](18-cok-girdili-regresyon-ve-matrisler.md) | Birkaç özelliği birlikte kullanırken hesapları nasıl düzenleriz? | Okumaya hazır |
+| 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği | Çok girdili veride parametreleri nasıl buluruz ve çözüm ne zaman tektir? | Planlandı |
 
-13–17. derslerle ilk öğrenme döngüsünün anlatımı tamamlandı. Bölümün bütün kapsamı henüz bitmedi; 18. dersle çok girdili hesaplara geçeceğiz.
+13–17. derslerle ilk öğrenme döngüsünün anlatımı tamamlandı. Bölümün bütün kapsamı henüz bitmedi; [18. ders](18-cok-girdili-regresyon-ve-matrisler.md) çok girdili hesapları ve matris gösterimini kurar; 19. derste genel en küçük kareler çözümüne geçeceğiz.
 
 Bu tablo bölümün başlangıç derslerini gösterir. Kapsamdaki diğer konular, ön koşulları kurulduktan sonra ayrı derslerle eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; yayımlanan dersler otomatik olarak öğrenilmiş sayılmaz.
 
