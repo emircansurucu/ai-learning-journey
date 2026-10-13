@@ -56,7 +56,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 
 ## Başlangıç dersleri
 
-Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmenin matematiği bölümünde işlenecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
+Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmenin matematiği bölümünün ilk öğrenme döngüsünü oluşturur ve okumaya hazırdır. 18. dersle çok girdili hesaplara geçilecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
 
 - [ ] [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) *(okumaya hazır)*
 - [ ] [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
@@ -74,7 +74,8 @@ Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmeni
 - [ ] [Ders 14 — Doğrusal regresyon](02-ogrenmenin-matematigi/14-dogrusal-regresyon.md) *(okumaya hazır)*
 - [ ] [Ders 15 — Kayıp fonksiyonu](02-ogrenmenin-matematigi/15-kayip-fonksiyonu.md) *(okumaya hazır)*
 - [ ] [Ders 16 — Gradyan inişi](02-ogrenmenin-matematigi/16-gradyan-inisi.md) *(okumaya hazır)*
-- [ ] Ders 17 — Genelleme ve overfitting
+- [ ] [Ders 17 — Genelleme ve overfitting](02-ogrenmenin-matematigi/17-genelleme-ve-overfitting.md) *(okumaya hazır)*
+- [ ] Ders 18 — Çok girdili doğrusal regresyon ve matris gösterimi
 
 ## İlk kazanım ölçütleri
 
