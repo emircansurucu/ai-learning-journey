@@ -11,7 +11,7 @@ Amaç; bir yöntemin neden gerektiğini anlamak, denklemlerini okuyabilmek, davr
 3. [Kaynak rehberi](KAYNAKLAR.md) ile kitap ve videoların hangi amaçla kullanılacağını gör.
 4. [Temeller](01-temeller/README.md) bölümünden sırayla ilerle.
 
-**Durum:** [Temeller bölümünün](01-temeller/README.md) 12 dersinin tamamı okumaya hazır. [Öğrenmenin matematiği](02-ogrenmenin-matematigi/README.md) bölümünde [Ders 13 — Veriden fonksiyon öğrenmek](02-ogrenmenin-matematigi/13-veriden-fonksiyon-ogrenmek.md), [Ders 14 — Doğrusal regresyon](02-ogrenmenin-matematigi/14-dogrusal-regresyon.md) ve [Ders 15 — Kayıp fonksiyonu](02-ogrenmenin-matematigi/15-kayip-fonksiyonu.md) ayrıntılı anlatım ve grafiklerle hazır. Sırada Ders 16 — Gradyan inişi var. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
+**Durum:** [Temeller bölümünün](01-temeller/README.md) 12 dersinin tamamı okumaya hazır. [Öğrenmenin matematiği](02-ogrenmenin-matematigi/README.md) bölümünde 13–16. dersler hazır. Son eklenen konu: [Ders 16 — Gradyan inişi](02-ogrenmenin-matematigi/16-gradyan-inisi.md); türev, öğrenme hızı ve parametre güncellemeleri grafikler ve çözümlü hesaplarla anlatılıyor. Sırada Ders 17 — Genelleme ve overfitting var. Diğer dersler konu konu eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
 
 ## Bölümler
 
