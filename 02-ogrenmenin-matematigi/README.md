@@ -26,11 +26,14 @@ Grafiklerde eksenleri, birimleri, ölçüm noktalarını ve model tahminlerini b
 | [16 — Gradyan inişi](16-gradyan-inisi.md) | Parametreleri daha küçük kayba doğru nasıl güncelleriz? | Okumaya hazır |
 | [17 — Genelleme ve overfitting](17-genelleme-ve-overfitting.md) | Eğitimde iyi çalışan model yeni veride neden başarısız olabilir? | Okumaya hazır |
 | [18 — Çok girdili doğrusal regresyon ve matris gösterimi](18-cok-girdili-regresyon-ve-matrisler.md) | Birkaç özelliği birlikte kullanırken hesapları nasıl düzenleriz? | Okumaya hazır |
-| 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği | Çok girdili veride parametreleri nasıl buluruz ve çözüm ne zaman tektir? | Planlandı |
+| [19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği](19-matrislerle-en-kucuk-kareler.md) | Çok girdili veride parametreleri nasıl buluruz ve çözüm ne zaman tektir? | Okumaya hazır |
+| 20 — Özellik ölçekleme, Ridge/Lasso ve düzenlileştirme | Özellik ölçeklerini ve katsayıları nasıl kontrol ederiz? | Planlandı |
+| 21 — Regresyonun olasılıksal yorumu ve belirsizlik | Tahmin ve hata modelini nasıl yorumlarız? | Planlandı |
+| 22 — Bölüm tekrarı ve uçtan uca uygulama | Öğrenme döngüsünün bütün adımlarını nasıl birleştiririz? | Planlandı |
 
-13–17. derslerle ilk öğrenme döngüsünün anlatımı tamamlandı. Bölümün bütün kapsamı henüz bitmedi; [18. ders](18-cok-girdili-regresyon-ve-matrisler.md) çok girdili hesapları ve matris gösterimini kurar; 19. derste genel en küçük kareler çözümüne geçeceğiz.
+**Bölüm 22. dersle tamamlanacak şekilde planlandı.** 13–19. dersler okumaya hazır; 20–22. derslerle ölçekleme ve düzenlileştirme, olasılıksal yorum ve uçtan uca uygulama tamamlanacak. Ardından [03 — Klasik makine öğrenmesi](../03-klasik-makine-ogrenmesi/README.md) bölümüne geçilecek.
 
-Bu tablo bölümün başlangıç derslerini gösterir. Kapsamdaki diğer konular, ön koşulları kurulduktan sonra ayrı derslerle eklenecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; yayımlanan dersler otomatik olarak öğrenilmiş sayılmaz.
+Bu tablo 02 bölümünün tamamlanma planını gösterir. İleri ayrıntılar ilgili sonraki bölümlerde genişletilecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; yayımlanan dersler otomatik olarak öğrenilmiş sayılmaz.
 
 ## Ön koşullar
 
