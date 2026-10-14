@@ -11,7 +11,7 @@ Amaç; bir yöntemin neden gerektiğini anlamak, denklemlerini okuyabilmek, davr
 3. [Kaynak rehberi](KAYNAKLAR.md) ile kitap ve videoların hangi amaçla kullanılacağını gör.
 4. [Temeller](01-temeller/README.md) bölümünden sırayla ilerle.
 
-**Durum:** [Temeller bölümünün](01-temeller/README.md) 12 dersinin tamamı okumaya hazır. [Öğrenmenin matematiği](02-ogrenmenin-matematigi/README.md) bölümünde 13–18. dersler hazır. Son eklenen konu: [Ders 18 — Çok girdili doğrusal regresyon ve matris gösterimi](02-ogrenmenin-matematigi/18-cok-girdili-regresyon-ve-matrisler.md); özellik vektörleri, matris çarpımı ve boyut kontrolü çözümlü hesaplarla anlatılıyor. Sırada Ders 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği var. 02 bölümünün kapsamı bu derslerle sürdürülecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
+**Durum:** [Temeller bölümünün](01-temeller/README.md) 12 dersinin tamamı okumaya hazır. [Öğrenmenin matematiği](02-ogrenmenin-matematigi/README.md) bölümünde 13–19. dersler hazır. Son eklenen konu: [Ders 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği](02-ogrenmenin-matematigi/19-matrislerle-en-kucuk-kareler.md). **02 bölümü 22. dersle tamamlanacak şekilde planlandı; kalan üç ders 20–22.** Ardından 03 — Klasik makine öğrenmesi bölümüne geçilecek. Yol haritasındaki kutular kişisel öğrenme ilerlemesini gösterir; dersin yayımlanması, konunun öğrenildiği anlamına gelmez.
 
 ## Bölümler
 
