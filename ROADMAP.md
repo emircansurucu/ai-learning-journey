@@ -56,7 +56,7 @@ Veriyle sistem tanımlama; öğrenilmiş dinamikler; belirsizlik; zaman serisi t
 
 ## Başlangıç dersleri
 
-Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmenin matematiği bölümünün ilk öğrenme döngüsünü oluşturur ve okumaya hazırdır. 18. ders çok girdili hesapları ve matris gösterimini kurar; 19. derste genel en küçük kareler çözümüne geçilecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
+Temeller bölümünün ilk 12 dersi ve öğrenmenin matematiği bölümünün 13–19. dersleri okumaya hazır. **02 bölümü 22. dersle tamamlanacak şekilde planlandı:** 20. derste ölçekleme ve düzenlileştirme, 21. derste olasılıksal yorum, 22. derste bölüm tekrarı ve uçtan uca uygulama işlenecek. Ardından 03 — Klasik makine öğrenmesi bölümüne geçilecek. Ayrıntılı sinir ağı eğitimi daha sonra dördüncü bölümde ele alınacak.
 
 - [ ] [Ders 01 — Yapay zekâ nedir?](01-temeller/01-yapay-zeka-nedir.md) *(okumaya hazır)*
 - [ ] [Ders 02 — AI, ML ve DL haritası](01-temeller/02-ai-ml-dl-haritasi.md) *(okumaya hazır)*
@@ -76,7 +76,10 @@ Temeller bölümünün ilk 12 dersi okumaya hazır; 13–17. dersler öğrenmeni
 - [ ] [Ders 16 — Gradyan inişi](02-ogrenmenin-matematigi/16-gradyan-inisi.md) *(okumaya hazır)*
 - [ ] [Ders 17 — Genelleme ve overfitting](02-ogrenmenin-matematigi/17-genelleme-ve-overfitting.md) *(okumaya hazır)*
 - [ ] [Ders 18 — Çok girdili doğrusal regresyon ve matris gösterimi](02-ogrenmenin-matematigi/18-cok-girdili-regresyon-ve-matrisler.md) *(okumaya hazır)*
-- [ ] Ders 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği
+- [ ] [Ders 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği](02-ogrenmenin-matematigi/19-matrislerle-en-kucuk-kareler.md) *(okumaya hazır)*
+- [ ] Ders 20 — Özellik ölçekleme, Ridge/Lasso ve düzenlileştirme
+- [ ] Ders 21 — Regresyonun olasılıksal yorumu ve belirsizlik
+- [ ] Ders 22 — Bölüm tekrarı ve uçtan uca uygulama
 
 ## İlk kazanım ölçütleri
 
