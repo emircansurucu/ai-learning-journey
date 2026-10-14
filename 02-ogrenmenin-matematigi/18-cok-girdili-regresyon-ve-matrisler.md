@@ -454,4 +454,4 @@ Bu dersteki iki girdili sensör senaryosu, grafikler ve kod ayrıca hazırlanmı
 
 [Önceki ders: Genelleme ve overfitting](17-genelleme-ve-overfitting.md) · [Bölüm girişine dön](README.md)
 
-**Sonraki konu:** Ders 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği *(henüz hazırlanmadı)*.
+**Sonraki ders:** [Ders 19 — Matrislerle en küçük kareler ve parametrelerin belirlenebilirliği](19-matrislerle-en-kucuk-kareler.md).
